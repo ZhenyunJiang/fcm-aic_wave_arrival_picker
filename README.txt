@@ -25,8 +25,8 @@ For a description of the theory behind this tool read the extended abstract
 oseismic data" (https://doi.org/10.1190/segam2019-3215089.1). The theortical
 details of this tool can also be found in the following paper: E.V. Cano, J.
 Akram, D.B. Peter. Automatic seismic phase picking based on unsupervised ma-
-chine learning classification and content information analysis. Geophysical
-Research Letters. Submitted: April 2020.
+chine learning classification and content information analysis. GEOPHYSICS.
+Submitted: May 2020.
 
 
 HOW TO USE THIS TOOL
